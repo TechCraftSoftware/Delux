@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://delux.updategrowth.com/sitemap.xml
